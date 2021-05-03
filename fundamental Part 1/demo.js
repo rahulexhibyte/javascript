@@ -12,7 +12,7 @@ console.log(40 + 8 + 25 + 63);
 
 console.log("Jones");
 
-let firstName = "Rahul";
+let fullName = "Rahul";
 console.log(firstName);
 
 //Invalid Variable Name
