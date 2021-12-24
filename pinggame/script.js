@@ -6,6 +6,7 @@ const scorePlayer0 = document.querySelector("#score--0");
 const scorePlayer1 = document.querySelector("#score--1");
 const currentScorep0 = document.getElementById("current--0");
 const currentScorep1 = document.getElementById("current--1");
+console.log("Test");
 
 const dice = document.querySelector(".dice");
 
